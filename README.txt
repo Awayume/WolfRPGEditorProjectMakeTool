@@ -1,12 +1,12 @@
 WolfRPGエディタープロジェクト作成ツール 1.0
 
 1. 添付
-WolfRPGEditorProjectMakeTool.exe
+WolfRPGEditorProjectMakeTool.bat
 README.txt
 
 2. 使い方
 下記のようなファイル構成にして、
-WolfRPGEditorProjectMakeTool_v1.0.exeを実行するだけです。
+WolfRPGEditorProjectMakeTool_v1.0.batを実行するだけです。
 
 3. 注意点
 ①WolfRPGエディターにのみ対応しています。
@@ -26,7 +26,7 @@ WolfRPGEditorProjectMakeTool_v1.0.exeを実行するだけです。
 │  Game.ini
 │  GdiPlus.dll
 │  GuruGuruSMF4.dll
-│  WolfRPGEditorProjectSetupTool.exe
+│  WolfRPGEditorProjectSetupTool.bat
 │  
 ├─Data
 │  ├─BasicData
