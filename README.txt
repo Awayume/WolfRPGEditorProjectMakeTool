@@ -1,119 +1,119 @@
-WolfRPGƒGƒfƒBƒ^[ƒvƒƒWƒFƒNƒgì¬ƒc[ƒ‹ 1.0
+WolfRPGã‚¨ãƒ‡ã‚£ã‚¿ãƒ¼ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆä½œæˆãƒ„ãƒ¼ãƒ« Ver2.0
 
-1. “Y•t
-WolfRPGEditorProjectMakeTool.bat
+1. æ·»ä»˜
+WolfRPGEditorProjectMakeTool_v2.0.exe
 README.txt
 
-2. Žg‚¢•û
-‰º‹L‚Ì‚æ‚¤‚Èƒtƒ@ƒCƒ‹\¬‚É‚µ‚ÄA
-WolfRPGEditorProjectMakeTool_v1.0.bat‚ðŽÀs‚·‚é‚¾‚¯‚Å‚·B
+2. ä½¿ã„æ–¹
+ä¸‹è¨˜ã®ã‚ˆã†ãªãƒ•ã‚¡ã‚¤ãƒ«æ§‹æˆã«ã—ã¦ã€
+WolfRPGEditorProjectMakeTool_v2.0.exeã‚’å®Ÿè¡Œã™ã‚‹ã ã‘ã§ã™ã€‚
 
-3. ’ˆÓ“_
-‡@WolfRPGƒGƒfƒBƒ^[‚É‚Ì‚Ý‘Î‰ž‚µ‚Ä‚¢‚Ü‚·B
-‡A“r’†‚ÅAUnzip.vbs‚ð¶¬‚µ‚Ü‚·‚ªA‚»‚Ìƒtƒ@ƒCƒ‹‚ªWindowsSecurity‚É
-@‹ºˆÐ‚Æ‚µ‚ÄŒŸo‚³‚ê‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B
-@‚»‚Ìƒtƒ@ƒCƒ‹‚ª‚È‚¢‚Æ³í‚É“®ì‚µ‚È‚¢‚½‚ßA‹–‰Â‚·‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B
+3. æ³¨æ„ç‚¹
+â‘ WolfRPGã‚¨ãƒ‡ã‚£ã‚¿ãƒ¼ã«ã®ã¿å¯¾å¿œã—ã¦ã„ã¾ã™ã€‚
+â‘¡é€”ä¸­ã§ã€Unzip.vbsã‚’ç”Ÿæˆã—ã¾ã™ãŒã€ãã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒWindowsSecurityã«
+ã€€è„…å¨ã¨ã—ã¦æ¤œå‡ºã•ã‚Œã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
+ã€€ãã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒãªã„ã¨æ­£å¸¸ã«å‹•ä½œã—ãªã„ãŸã‚ã€è¨±å¯ã™ã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚
 
 
-³‚µ‚¢\¬‚Ìê‡A‚±‚Ì‚æ‚¤‚É‚È‚Á‚Ä‚¢‚é‚Í‚¸‚Å‚·B
-(—]•ª‚Èƒtƒ@ƒCƒ‹‚ª‚ ‚Á‚Ä‚à\‚¢‚Ü‚¹‚ñB)
+æ­£ã—ã„æ§‹æˆã®å ´åˆã€ã“ã®ã‚ˆã†ã«ãªã£ã¦ã„ã‚‹ã¯ãšã§ã™ã€‚
+(ä½™åˆ†ãªãƒ•ã‚¡ã‚¤ãƒ«ãŒã‚ã£ã¦ã‚‚æ§‹ã„ã¾ã›ã‚“ã€‚)
 
-„   Config.exe
-„   Editor.exe
-„   Editor.ini
-„   EditorGraphic.dat
-„   Game.exe
-„   Game.ini
-„   GdiPlus.dll
-„   GuruGuruSMF4.dll
-„   WolfRPGEditorProjectSetupTool.bat
-„   
-„¥„ŸData
-„   „¥„ŸBasicData
-„   „   „   —ª
-„   „   „   
-„   „   „¥„ŸAutoBackup1
-„   „   „       —ª
-„   „   „       
-„   „   „¥„ŸAutoBackup2
-„   „   „       —ª
-„   „   „       
-„   „   „¤„ŸAutoBackup3
-„   „           —ª
-„   „           
-„   „¥„ŸBattleEffect
-„   „       —ª
-„   „       
-„   „¥„ŸBGM
-„   „       —ª
-„   „       
-„   „¥„ŸCharaChip
-„   „       —ª
-„   „       
-„   „¥„ŸEnemyGraphic
-„   „       —ª
-„   „       
-„   „¥„ŸFog_BackGround
-„   „       —ª
-„   „       
-„   „¥„ŸMapChip
-„   „       —ª
-„   „       
-„   „¥„ŸMapData
-„   „       —ª
-„   „       
-„   „¥„ŸPicture
-„   „       —ª
-„   „       
-„   „¥„ŸSE
-„   „       —ª
-„   „       
-„   „¤„ŸSystemFile
-„           —ª
-„           
-„¤„Ÿƒf[ƒ^W
-    „   ƒOƒ‰ƒtƒBƒbƒN‡¬Ší.zip
-    „   ƒo[ƒWƒ‡ƒ“1‘fÞW.zip
-    „   
-    „¥„ŸiŠ®‘S‰Šúó‘Ôƒf[ƒ^j
-    „   „   Š®‘S‰Šúó‘Ôƒf[ƒ^‚É‚Â‚¢‚Ä.txt
-    „   „   
-    „   „¤„ŸData
-    „       „¥„ŸBasicData
-    „       „       —ª
-    „       „       
-    „       „¥„ŸBGM
-    „       „¥„ŸCharaChip
-    „       „¥„ŸEnemyGraphic
-    „       „¥„ŸMapChip
-    „       „       —ª
-    „       „       
-    „       „¥„ŸMapData
-    „       „¥„ŸPicture
-    „       „¥„ŸSE
-    „       „¤„ŸSystemGraphic
-    „               —ª
-    „               
-    „¤„Ÿi‹óƒf[ƒ^[Šî–{ƒVƒXƒeƒ€“ü‚è]j
-        „   ‹óƒf[ƒ^iŠî–{ƒVƒXƒeƒ€“ü‚èj‚É‚Â‚¢‚Ä.txt
-        „   
-        „¤„ŸData
-            „¥„ŸBasicData
-            „       —ª
-            „       
-            „¥„ŸBattleEffect
-            „       —ª
-            „       
-            „¥„ŸBGM
-            „¥„ŸCharaChip
-            „       —ª
-            „       
-            „¥„ŸEnemyGraphic
-            „¥„ŸMapChip
-            „       —ª
-            „       
-            „¥„ŸMapData
-            „¥„ŸPicture
-            „¥„ŸSE
-            „¤„ŸSystemFile
-                    —ª
+â”‚  Config.exe
+â”‚  Editor.exe
+â”‚  Editor.ini
+â”‚  EditorGraphic.dat
+â”‚  Game.exe
+â”‚  Game.ini
+â”‚  GdiPlus.dll
+â”‚  GuruGuruSMF4.dll
+â”‚  WolfRPGEditorProjectSetupTool.exe
+â”‚  
+â”œâ”€Data
+â”‚  â”œâ”€BasicData
+â”‚  â”‚  â”‚  ç•¥
+â”‚  â”‚  â”‚  
+â”‚  â”‚  â”œâ”€AutoBackup1
+â”‚  â”‚  â”‚      ç•¥
+â”‚  â”‚  â”‚      
+â”‚  â”‚  â”œâ”€AutoBackup2
+â”‚  â”‚  â”‚      ç•¥
+â”‚  â”‚  â”‚      
+â”‚  â”‚  â””â”€AutoBackup3
+â”‚  â”‚          ç•¥
+â”‚  â”‚          
+â”‚  â”œâ”€BattleEffect
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€BGM
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€CharaChip
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€EnemyGraphic
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€Fog_BackGround
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€MapChip
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€MapData
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€Picture
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â”œâ”€SE
+â”‚  â”‚      ç•¥
+â”‚  â”‚      
+â”‚  â””â”€SystemFile
+â”‚          ç•¥
+â”‚          
+â””â”€ãƒ‡ãƒ¼ã‚¿é›†
+    â”‚  ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯åˆæˆå™¨.zip
+    â”‚  ãƒãƒ¼ã‚¸ãƒ§ãƒ³1ç´ æé›†.zip
+    â”‚  
+    â”œâ”€ï¼ˆå®Œå…¨åˆæœŸçŠ¶æ…‹ãƒ‡ãƒ¼ã‚¿ï¼‰
+    â”‚  â”‚  å®Œå…¨åˆæœŸçŠ¶æ…‹ãƒ‡ãƒ¼ã‚¿ã«ã¤ã„ã¦.txt
+    â”‚  â”‚  
+    â”‚  â””â”€Data
+    â”‚      â”œâ”€BasicData
+    â”‚      â”‚      ç•¥
+    â”‚      â”‚      
+    â”‚      â”œâ”€BGM
+    â”‚      â”œâ”€CharaChip
+    â”‚      â”œâ”€EnemyGraphic
+    â”‚      â”œâ”€MapChip
+    â”‚      â”‚      ç•¥
+    â”‚      â”‚      
+    â”‚      â”œâ”€MapData
+    â”‚      â”œâ”€Picture
+    â”‚      â”œâ”€SE
+    â”‚      â””â”€SystemGraphic
+    â”‚              ç•¥
+    â”‚              
+    â””â”€ï¼ˆç©ºãƒ‡ãƒ¼ã‚¿[åŸºæœ¬ã‚·ã‚¹ãƒ†ãƒ å…¥ã‚Š]ï¼‰
+        â”‚  ç©ºãƒ‡ãƒ¼ã‚¿ï¼ˆåŸºæœ¬ã‚·ã‚¹ãƒ†ãƒ å…¥ã‚Šï¼‰ã«ã¤ã„ã¦.txt
+        â”‚  
+        â””â”€Data
+            â”œâ”€BasicData
+            â”‚      ç•¥
+            â”‚      
+            â”œâ”€BattleEffect
+            â”‚      ç•¥
+            â”‚      
+            â”œâ”€BGM
+            â”œâ”€CharaChip
+            â”‚      ç•¥
+            â”‚      
+            â”œâ”€EnemyGraphic
+            â”œâ”€MapChip
+            â”‚      ç•¥
+            â”‚      
+            â”œâ”€MapData
+            â”œâ”€Picture
+            â”œâ”€SE
+            â””â”€SystemFile
+                    ç•¥
